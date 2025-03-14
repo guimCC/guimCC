@@ -34,7 +34,7 @@ Adapted LoRA for domain transfer in segmentation tasks.
 ### HackUPC 2024 - Inditex TECH Challenge  
 Built an outfit recommendation system and image duplication detector using CLIP.  
 **Tech:** PyTorch, Hugging Face, CLIP, U-Net  
-[GitHub](#)  
+[GitHub](https://github.com/gerard-grau/HackUPC2024)  
 
 ### CriminalMap  
 Developed an AI-powered crime mapping system with optimized pathfinding.  
