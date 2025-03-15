@@ -19,17 +19,17 @@ Automated garment logging for designers using CLIP and ML models.
 ### Fashion Sales Prediction  
 Analyzed fashion sales using metadata, images, and time-series data.  
 **Tech:** Python, Pandas, PyTorch, OpenCV, XGBoost  
-[GitHub](#)  
+[GitHub](https://github.com/guimCC/FashionSalesPrediction)  
 
 ### Reward Optimization in Semantic Segmentation (CVC)  
 Developed reinforcement learning techniques to improve segmentation models.  
 **Tech:** PyTorch, TensorBoard, OpenCV, DeepLabv3  
-[GitHub](#)  
+[GitHub](https://github.com/guimCC/Reward-Optimisation-in-Semantic-Segmentation-CVC-Internship)  
 
 ### LoRA for Semantic Segmentation Domain Adaptation (CVC)  
 Adapted LoRA for domain transfer in segmentation tasks.  
 **Tech:** PyTorch, SegFormer-B0, LoRA, Hugging Face  
-[GitHub](#)  
+[GitHub](https://github.com/guimCC/LoRA-for-SemanticSegmentation-domain-adaptation)  
 
 ### HackUPC 2024 - Inditex TECH Challenge  
 Built an outfit recommendation system and image duplication detector using CLIP.  
@@ -44,12 +44,12 @@ Developed an AI-powered crime mapping system with optimized pathfinding.
 ### Novartis Datathon 2023  
 Forecasted sales in the healthcare industry using time-series analysis.  
 **Tech:** Python, Pandas, LightGBM  
-[GitHub](#)  
+[GitHub](https://github.com/guimCC/Novartis_Datathon_2023)  
 
 ### DatathonFME 2023 - Outfit Generator  
 AI-based outfit recommendation aligning with brand philosophy using CNNs & Transformers.  
 **Tech:** Python, Pandas, TensorFlow, Matplotlib  
-[GitHub](#)  
+[GitHub](https://github.com/guimCC/Dathon2023-Mango)  
 
 ---
 
@@ -62,27 +62,6 @@ AI-based outfit recommendation aligning with brand philosophy using CNNs & Trans
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-## GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimCC&show_icons=true&hide_border=true&theme=graywhite" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guimCC&hide_border=true&theme=graywhite" height="160">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guimCC&theme=react-dark">
-</p>
-
----
-
-## Additional Stats  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimCC&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimCC&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guimCC&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guimCC&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guimCC&theme=github&utcOffset=1">
 </p>
 
 ---
