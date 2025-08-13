@@ -16,6 +16,16 @@ Automated garment logging for designers using CLIP and ML models.
 **Tech:** Python, PyTorch, CLIP, XGBoost, OpenCV  
 [GitHub](https://github.com/guimCC/DesignDecoder) | [Kaggle](https://www.kaggle.com/competitions/datathon-fme-mango/overview)  
 
+### HackUPC 2025 - DataCenter-DeCoder (Winner)
+Interactive data center design and optimization tool built in collaboration with Siemens Energy, featuring constraint-based layout generation and drag-and-drop module placement.  
+**Tech:** Python, FastAPI, React, TypeScript, Vite, MongoDB  
+[GitHub](https://github.com/guimCC/DataCenter-DeCoder)
+
+### Bank to Notion Finance OS
+Automates uploading, processing, and categorizing bank transactions into a Notion financial dashboard via CSV parsing and keyword-based categorization.  
+**Tech:** Python, FastAPI, Vue.js 3, Vite, TailwindCSS, Notion API  
+[GitHub](https://github.com/guimCC/Bank2NotionFinanceOS)  
+
 ### Fashion Sales Prediction  
 Analyzed fashion sales using metadata, images, and time-series data.  
 **Tech:** Python, Pandas, PyTorch, OpenCV, XGBoost  
