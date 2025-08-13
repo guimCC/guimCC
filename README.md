@@ -3,9 +3,9 @@
 ## Data Science | Machine Learning | AI Research  
 I specialize in AI, Computer Vision, and Machine Learning, with a focus on research and real-world applications.
 
+- McKinsey Data Scientist - Madrid Office Sep 26
 - Bachelor's in Computational Mathematics & Data Analytics, Universitat Autònoma de Barcelona  
 - AI in Finance Certificate, Artificial Intelligence Finance Institute  
-- Machine Learning & AI Research Intern at the Computer Vision Center (CVC)  
 
 ---
 
